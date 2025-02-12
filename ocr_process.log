@@ -1,0 +1,11 @@
+2025-02-12 00:57:13,719 - INFO - Ground truth file already exists.
+2025-02-12 00:57:14,495 - INFO - OCR Evaluation Summary:
+2025-02-12 00:57:14,495 - INFO - Total Files Evaluated: 98
+2025-02-12 00:57:14,495 - INFO - Average Similarity Score: 0.13
+2025-02-12 00:57:14,495 - INFO - Minimum Similarity Score: 0.00
+2025-02-12 00:57:14,495 - INFO - Maximum Similarity Score: 0.47
+2025-02-12 00:57:14,495 - INFO - Files with Similarity Below 0.8: 98
+2025-02-12 00:57:16,644 - INFO - OCR Evaluation complete! Results saved with improved preprocessing, normalization, and validation checks.
+2025-02-12 01:15:18,153 - INFO - Ground truth file already exists.
+2025-02-12 01:15:19,009 - INFO - Total Files Evaluated: 98
+2025-02-12 01:15:19,009 - INFO - Average Similarity Score: 0.13
